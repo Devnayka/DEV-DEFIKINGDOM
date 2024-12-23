@@ -13,11 +13,11 @@ The "DeFi(Kingdom)" project introduces an ERC20 token, "Naika" (N), and a Vault 
 
 1. Create Avalanche Subnet
    ```bash
-   avalanche subnet create NAYKA
+   avalanche subnet create DevNayka
    ```
 2. Deploy Subnet
    ```bash
-   avalanche subnet deploy NAYKA
+   avalanche subnet deploy DevNayka
    ```
 3. Configure Metamask
 
